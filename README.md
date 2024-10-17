@@ -1,2 +1,2 @@
 # GPT
-Created My own open ai Gpt 
+## Created My own openai GPT using Open AI API KEY
